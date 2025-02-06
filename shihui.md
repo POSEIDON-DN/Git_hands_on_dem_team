@@ -7,4 +7,6 @@
 - setting second index as stress
 - printing the data into plot
 - recommendation: missing units for time step and stress
+
+
 ![plot](Fig1.png)
