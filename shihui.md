@@ -6,7 +6,7 @@
 - setting first index as timestep
 - setting second index as stress
 - printing the data into plot
-- recommendation: missing units for time step and stress
+- recommendation: missing units for stress, and wether it is time and step
 
 
 ![plot](Fig1.png)
